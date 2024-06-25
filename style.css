@@ -1,0 +1,40 @@
+.grid{
+  
+    background-color: brown;
+}
+
+.col{
+    color: aliceblue;
+}
+
+.sobre{
+    background-color: black;
+}
+
+.bebe{
+    font-size: xx-large;
+    font-style: oblique;
+    color: aquamarine;
+}
+
+.form{
+    background-color: rgb(88, 100, 45);
+    font-size: x-large;
+    font-style: italic;
+}
+.mb-3{
+ width: 500px;
+}
+
+.button{
+    width: 60px;
+}
+
+.teste{
+    background-color: gray;
+}
+.rod{
+    font-size: x-large;
+    font-style: italic ;
+    
+}
